@@ -59,6 +59,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![Screenshot 2023-11-21 153440](https://github.com/Karthickraja23006120/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139335315/a540eb74-0a38-41e8-933c-fd0e8cd1298b)
+![Screenshot 2023-11-21 153624](https://github.com/Karthickraja23006120/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139335315/b0cc965b-8b46-474c-9cc4-b361f1209750)
+![Screenshot 2023-11-21 153805](https://github.com/Karthickraja23006120/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139335315/ca2fc2c5-bb93-406f-a7a3-d9d282a2e233)
+![Screenshot 2023-11-21 153822](https://github.com/Karthickraja23006120/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139335315/995c5763-0da4-48d1-9b20-23807c5ad2f7)
+![Screenshot 2023-11-21 153850](https://github.com/Karthickraja23006120/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139335315/fe6482e9-a00d-4e8d-9eee-dea1efe78233)
+![Screenshot 2023-11-21 153908](https://github.com/Karthickraja23006120/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139335315/8b15fda7-f1d1-48f7-bce1-3c7fa728d320)
 
 ### Name: 
 ### Register Number:
